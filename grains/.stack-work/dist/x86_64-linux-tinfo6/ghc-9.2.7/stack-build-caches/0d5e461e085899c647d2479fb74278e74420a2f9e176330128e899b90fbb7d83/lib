@@ -1,0 +1,14 @@
+/home/kebab/exercism/haskell/grains/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.2.7/build/autogen/Paths_grains.hs:
+  hash: 9fcd9d840a50ad61aac5a2b4652e97c0b73fdd110d3d3bd07c775250f53c8d1e
+/home/kebab/exercism/haskell/grains/.stack-work/dist/x86_64-linux-tinfo6/ghc-9.2.7/build/autogen/cabal_macros.h:
+  hash: 411a44f7b9a14b19a7e817ca983cbfbe9a430a013233c8860df220c4229a73c2
+/home/kebab/exercism/haskell/grains/grains.cabal:
+  hash: 3d8eebc99657fbf64e2d52563ad52251cd51769723a3fccd0a1b32ddb9c898f9
+/home/kebab/exercism/haskell/grains/package.yaml:
+  hash: 54fb9dc6a6d17fad2e098f0f1c0958a01eb19217110896d17c6fe87d478c027e
+/home/kebab/exercism/haskell/grains/src/Grains.hs:
+  hash: 81adc6e38f76ac151b38793fd24996220e81910d0b059021987e45c1405fb668
+/root/.stack/programs/x86_64-linux/ghc-tinfo6-9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
